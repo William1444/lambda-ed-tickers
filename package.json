@@ -1,0 +1,22 @@
+{
+  "name": "lambda-ed-tickers",
+  "version": "1.0.0",
+  "description": "periodially gets ed tickers and looks for new ones",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/William1444/lambda-ed-tickers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/William1444/lambda-ed-tickers/issues"
+  },
+  "homepage": "https://github.com/William1444/lambda-ed-tickers#readme",
+  "dependencies": {
+    "cloudscraper": "^1.4.1"
+  }
+}
