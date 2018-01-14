@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/William1444/lambda-ed-tickers#readme",
   "dependencies": {
-    "cloudscraper": "^1.4.1"
+    "cloudscraper": "^1.4.1",
+    "slimbot": "^0.7.9",
+    "telebot": "^1.2.3"
   }
 }
